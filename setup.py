@@ -24,7 +24,7 @@ setuptools.setup(
         "gpyopt>=1.2",
         "imagecodecs",
         "lxml>=4.2",
-        "numpy>=1.13",
+        "numpy~=1.24.4",
         "pandas>=0.23.0",
         "scikit-image>=0.14.0",
         "scikit-learn>=0.19.0",
