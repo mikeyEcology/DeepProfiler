@@ -25,7 +25,7 @@ setuptools.setup(
         "imagecodecs",
         "lxml>=4.2",
         "numpy==1.19.5",
-        "pandas>=0.23.0",
+        "pandas==1.4.4",
         "scikit-image==0.19.3",
         "scikit-learn>=0.19.0",
         "scipy>=1.1",
