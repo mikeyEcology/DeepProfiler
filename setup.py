@@ -26,7 +26,7 @@ setuptools.setup(
         "lxml>=4.2",
         "numpy==1.19.5",
         "pandas>=0.23.0",
-        "scikit-image>=0.14.0",
+        "scikit-image==0.19.3",
         "scikit-learn>=0.19.0",
         "scipy>=1.1",
         "comet-ml>=3.1.6",
